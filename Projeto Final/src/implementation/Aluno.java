@@ -42,7 +42,7 @@ public class Aluno {
 	public void setdataDeNascimento(String dataDeNascimento); { this.dataDeNascimento = dataDeNascimento; };
 	
 	public String toString() {
-		return "RA: " + RA + \n + "Nome: " + nome + \n + "Endereço: " + endereço + \n + "Celular: " + celular + \n + "Data de Nascimento: " + dataDeNascimento;
+		return "RA: " + RA + "\n" + "Nome: " + nome + "\n" + "Endereço: " + endereço + "\n" + "Celular: " + celular + "\n" + "Data de Nascimento: " + dataDeNascimento;
 	}
 	
 }
